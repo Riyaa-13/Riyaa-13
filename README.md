@@ -4,7 +4,6 @@
 
 🎓 MS Information Technology, Arizona State University (GPA 3.9 | May 2026)  
 📍 Tempe, AZ — Open to Relocate  
-🔭 Currently building: AWS EKS Security & Observability Platform  
 ✅ F-1 OPT / STEM-eligible  
 
 ---
