@@ -3,7 +3,7 @@
 **Cloud & DevOps Engineer** | AWS · EKS · Terraform · Kubernetes · DevSecOps
 
 🎓 MS Information Technology, Arizona State University (GPA 3.9 | May 2026)  
-📍 Tempe, AZ — Open to Relocate  
+📍 Atlanta, GA — Open to Relocate  
 ✅ F-1 OPT / STEM-eligible  
 
 ---
